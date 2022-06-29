@@ -1,5 +1,5 @@
 <?php 
 session_start();
 session_destroy();
-header("Location: ../crm");
+header("Location: https://proyectofinalcrm.herokuapp.com/");
 ?>
